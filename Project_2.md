@@ -1,3 +1,4 @@
+Docker swarm for application orchestration with down time
 The project is to demostate how to create alpine service with a default replica of 1.
 How to update the replica to 4 to ensure high redundancy and application availability.
 IT also shows what happen when one node is deleted, 
